@@ -24,10 +24,10 @@ extension ViewController: MediaKeyTapDelegate {
             commandCenter.nextTrackCommand.addTarget(self, action: #selector(nextTrack))
             commandCenter.previousTrackCommand.addTarget(self, action: #selector(previousTrack))
             commandCenter.changePlaybackPositionCommand.addTarget(self, action: #selector(seek(_:)))
-        } else {
-            mediaKeyTap = MediaKeyTap(delegate: self)
-            mediaKeyTap?.start()
         }
+        
+        mediaKeyTap = MediaKeyTap(delegate: self)
+        mediaKeyTap?.start()
     }
     
     func handle(mediaKey: MediaKey, event: KeyEvent) {
@@ -42,7 +42,7 @@ extension ViewController: MediaKeyTapDelegate {
         case .next, .fastForward:
             nextTrack()
             break
-        case.previous, .rewind:
+        case .previous, .rewind:
             previousTrack()
             break
         }
