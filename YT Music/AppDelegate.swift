@@ -18,16 +18,16 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     
     lazy var dockMenu: NSMenu = {
         let menu = NSMenu()
-        menu.addItem(NSMenuItem(title: "Play", action: #selector(playPause), keyEquivalent: ""))
+        menu.addItem(NSMenuItem(title: "Play".localized(), action: #selector(playPause), keyEquivalent: ""))
         menu.addItem(NSMenuItem.separator())
-        menu.addItem(NSMenuItem(title: "Next", action: #selector(nextTrack), keyEquivalent: ""))
-        menu.addItem(NSMenuItem(title: "Previous", action: #selector(previousTrack), keyEquivalent: ""))
+        menu.addItem(NSMenuItem(title: "Next".localized(), action: #selector(nextTrack), keyEquivalent: ""))
+        menu.addItem(NSMenuItem(title: "Previous".localized(), action: #selector(previousTrack), keyEquivalent: ""))
         menu.addItem(NSMenuItem.separator())
-        menu.addItem(NSMenuItem(title: "Shuffle", action: #selector(shuffleTracks), keyEquivalent: ""))
-        menu.addItem(NSMenuItem(title: "Repeat", action: #selector(repeatTracks), keyEquivalent: ""))
+        menu.addItem(NSMenuItem(title: "Shuffle".localized(), action: #selector(shuffleTracks), keyEquivalent: ""))
+        menu.addItem(NSMenuItem(title: "Repeat".localized(), action: #selector(repeatTracks), keyEquivalent: ""))
         menu.addItem(NSMenuItem.separator())
-        menu.addItem(NSMenuItem(title: "Like", action: #selector(likeTrack), keyEquivalent: ""))
-        menu.addItem(NSMenuItem(title: "Dislike", action: #selector(dislikeTrack), keyEquivalent: ""))
+        menu.addItem(NSMenuItem(title: "Like".localized(), action: #selector(likeTrack), keyEquivalent: ""))
+        menu.addItem(NSMenuItem(title: "Dislike".localized(), action: #selector(dislikeTrack), keyEquivalent: ""))
         return menu
     }()
     
@@ -93,3 +93,8 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     
 }
 
+extension String {
+    func localized(bundle: Bundle = .main, tableName: String = "Localizable") -> String {
+        return NSLocalizedString(self, tableName: tableName, value: "**\(self)**", comment: "")
+    }
+}

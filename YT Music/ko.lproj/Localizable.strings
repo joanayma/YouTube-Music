@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  YT Music
+
+  Created by Jung JaeYeol on 2019/10/16.
+  Copyright © 2019 Cocoon Development Ltd. All rights reserved.
+*/
+
+"Play" = "재생";
+
+"Next" = "다음";
+"Previous" = "이전";
+
+"Shuffle" = "임의 재생";
+"Repeat" = "반복";
+
+"Like" = "좋아요";
+"Dislike" = "싫어요";

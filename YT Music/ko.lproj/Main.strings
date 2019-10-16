@@ -1,0 +1,137 @@
+/* Class = "NSWindow"; title = "YT Music"; ObjectID = "IQv-IB-iLA"; */
+"IQv-IB-iLA.title" = "YT Music";
+
+/* Class = "NSViewController"; title = "YouTube Music"; ObjectID = "XfG-lQ-9wD"; */
+"XfG-lQ-9wD.title" = "YouTube Music";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Main Menu";
+
+/* Class = "NSMenuItem"; title = "YT Music"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "YT Music";
+
+/* Class = "NSMenu"; title = "YT Music"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "YT Music";
+
+/* Class = "NSMenuItem"; title = "About YT Music"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "YT Music에 관하여";
+
+/* Class = "NSMenuItem"; title = "Check For Updates…"; ObjectID = "j8K-5G-iUA"; */
+"j8K-5G-iUA.title" = "업데이트 확인…";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "서비스";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "서비스";
+
+/* Class = "NSMenuItem"; title = "Hide YT Music"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "YT Music 가리기";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "기타 가리기";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "모두 보기";
+
+/* Class = "NSMenuItem"; title = "Quit YT Music"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "YT Music 종료";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ"; */
+"dMs-cI-mzQ.title" = "파일";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu"; */
+"bib-Uj-vzu.title" = "파일";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG"; */
+"DVo-aG-piG.title" = "닫기";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T"; */
+"5QF-Oa-p0T.title" = "편집";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "W48-6f-4Dl"; */
+"W48-6f-4Dl.title" = "편집";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "dRJ-4n-Yzg"; */
+"dRJ-4n-Yzg.title" = "실행 취소";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "6dh-zS-Vam"; */
+"6dh-zS-Vam.title" = "실행 복귀";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "uRl-iY-unG"; */
+"uRl-iY-unG.title" = "오려두기";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "x3v-GG-iWU"; */
+"x3v-GG-iWU.title" = "복사하기";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL"; */
+"gVA-U4-sdL.title" = "붙여넣기";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "pa3-QI-u2k"; */
+"pa3-QI-u2k.title" = "삭제";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m"; */
+"Ruw-6m-B2m.title" = "전체 선택";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "xrE-MZ-jX0"; */
+"xrE-MZ-jX0.title" = "말하기";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "3rS-ZA-NoH"; */
+"3rS-ZA-NoH.title" = "말하기";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "Ynk-f8-cLZ"; */
+"Ynk-f8-cLZ.title" = "말하기 시작";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "Oyz-dy-DGm"; */
+"Oyz-dy-DGm.title" = "말하기 중단";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v"; */
+"H8h-7b-M4v.title" = "보기";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO"; */
+"HyV-fh-RgO.title" = "보기";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "4J7-dP-txa"; */
+"4J7-dP-txa.title" = "Enter Full Screen";
+
+/* Class = "NSMenuItem"; title = "Playback"; ObjectID = "H6J-Tx-JYS"; */
+"H6J-Tx-JYS.title" = "제어기";
+
+/* Class = "NSMenu"; title = "Playback"; ObjectID = "wOk-ZC-hMZ"; */
+"wOk-ZC-hMZ.title" = "제어기";
+
+/* Class = "NSMenuItem"; title = "Play"; ObjectID = "isL-fL-kUD"; */
+"isL-fL-kUD.title" = "재생";
+
+/* Class = "NSMenuItem"; title = "Next"; ObjectID = "aNu-JY-GDR"; */
+"aNu-JY-GDR.title" = "다음";
+
+/* Class = "NSMenuItem"; title = "Previous"; ObjectID = "zwq-Um-Cjf"; */
+"zwq-Um-Cjf.title" = "이전";
+
+/* Class = "NSMenuItem"; title = "Shuffle"; ObjectID = "ZZg-XZ-mDf"; */
+"ZZg-XZ-mDf.title" = "임의 재생";
+
+/* Class = "NSMenuItem"; title = "Repeat"; ObjectID = "cJf-AS-lZ7"; */
+"cJf-AS-lZ7.title" = "반복";
+
+/* Class = "NSMenuItem"; title = "Like"; ObjectID = "GYC-cp-9M7"; */
+"GYC-cp-9M7.title" = "좋아요";
+
+/* Class = "NSMenuItem"; title = "Dislike"; ObjectID = "SC7-ft-qWs"; */
+"SC7-ft-qWs.title" = "싫어요";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; */
+"aUF-d1-5bR.title" = "윈도우";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
+"Td7-aD-5lo.title" = "윈도우";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
+"OY7-WF-poV.title" = "최소화";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
+"R4o-n2-Eq4.title" = "확대/축소";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
+"LE2-aR-0XJ.title" = "모두 앞으로 가져오기";
